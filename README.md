@@ -35,4 +35,4 @@ Learn more about your favorite actors and actresses. Dive into their life storie
 
 ## Contribution <a id="contribution"></a>
 
-This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me or submit an idea in the [discussions](https://github.com/catherineisonline/movies-time/discussions). Otherwise, you are free to fork this project and change it for your own purposes. 
+This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me. Otherwise, you are free to fork this project and change it for your own purposes. 
